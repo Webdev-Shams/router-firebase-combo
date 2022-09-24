@@ -1,0 +1,20 @@
+.header{
+    background-color: darkgreen;
+}
+
+.header nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header nav a{
+    margin: 15px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.header nav a:hover{
+    font-size: larger;
+}
